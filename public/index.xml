@@ -4,10 +4,32 @@
     <title>Bruce&#39;s Blog</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 19:40:50 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 10:57:53 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Update Calendar Project</title>
+      <link>http://localhost:1313/posts/2024-06-30/</link>
+      <pubDate>Sun, 30 Jun 2024 10:57:53 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-30/</guid>
+      <description>Link - https://github.com/BruceYoung19/GoogleCalendarScript
+Upskilling Log What have I learned:
+Data structures Arrays Dates Google scripting Git commit Technical Documentation Should be keeping up with the time frame Git hub License What I could have worked on:
+Git fork API Version Control Version 1 - code.gs
+only able to make events Problem:
+This is not useable on a daily use. Version 2 - Codev2.gs
+Spreadsheet to make all the events Creating a tag for the event STRUCTURE = [TAG] Event , startdate, enddate, description, code This can work in a span of a timeframe creating with one line of code.</description>
+    </item>
+    <item>
+      <title>Nix OS Review</title>
+      <link>http://localhost:1313/posts/2024-06-29/</link>
+      <pubDate>Sat, 29 Jun 2024 10:49:46 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-29/</guid>
+      <description>Link - https://nixos.org/
+I have been using NixOs for four months now, but I think it is time for a change. Currently, at this stage in my career, there is a lot to learn. However, the timeframe for each project has been shortened significantly. Therefore I will be changing to another Linux distribution very shortly.
+What I love about the NixOs: Reproducibility, being able to copy over a configuration from git, and rebuilding with one simple command have made my life incredibly easy with maintenance.</description>
+    </item>
     <item>
       <title>HuGo Modding</title>
       <link>http://localhost:1313/posts/26-06/</link>
