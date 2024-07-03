@@ -6,8 +6,17 @@
     <description>Recent content on Bruce&#39;s Blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 10:57:53 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 20:22:28 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Update</title>
+      <link>http://localhost:1313/posts/2024-07-03/</link>
+      <pubDate>Wed, 03 Jul 2024 20:22:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-03/</guid>
+      <description>Since Coming Back to Arch OS. I have been much more technical. Also, I feel freer because I can modify the system without restrictions. However, with these changes, there will never be without cons. At this stage, the only con I have found is package management. I can not keep track of what is installed on my computer.
+In terms of upskilling, I have started updating the following repository.
+Link - https://github.</description>
+    </item>
     <item>
       <title>Project Update Calendar Project</title>
       <link>http://localhost:1313/posts/2024-06-30/</link>
@@ -37,14 +46,6 @@ What I love about the NixOs: Reproducibility, being able to copy over a configur
       <guid>http://localhost:1313/posts/26-06/</guid>
       <description>Modding After testing the paper mod theme, I have realized it is not much different from the normal paper theme. Also, I am still missing a lot of features at this very moment, Like the following:
 Search Archive Tags Images </description>
-    </item>
-    <item>
-      <title>Blog theme change</title>
-      <link>http://localhost:1313/posts/24-06-24/</link>
-      <pubDate>Mon, 24 Jun 2024 19:26:46 +1200</pubDate>
-      <guid>http://localhost:1313/posts/24-06-24/</guid>
-      <description>Template searching: From all the choices, I still liked the paper theme. It was just that there were no built-in features. So I upgraded to the Papermod theme.
-The Papermod theme comes with useful features, like showing off the links at the front with cool little icons. Also, the theme has some color contrast to reflect color better.</description>
     </item>
     <item>
       <title>First Post</title>
