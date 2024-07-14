@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-03T20:22:28+12:00</lastmod>
+    <lastmod>2024-07-13T21:58:28+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/calendarproject/</loc>
+    <lastmod>2024-07-13T21:58:28+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-07-13/</loc>
+    <lastmod>2024-07-13T21:58:28+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-03T20:22:28+12:00</lastmod>
+    <lastmod>2024-07-13T21:58:28+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-13T21:58:28+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-07-08T13:27:12+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-07-08/</loc>
+    <lastmod>2024-07-08T13:27:12+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2024-07-06T14:18:18+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-07-06/</loc>
+    <lastmod>2024-07-06T14:18:18+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024-07-03/</loc>
     <lastmod>2024-07-03T20:22:28+12:00</lastmod>
@@ -24,7 +45,5 @@
     <lastmod>2024-06-23T13:54:04+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

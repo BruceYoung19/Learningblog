@@ -4,10 +4,37 @@
     <title>Posts on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.128.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 20:22:28 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 21:58:28 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google App Script Update</title>
+      <link>http://localhost:1313/posts/2024-07-13/</link>
+      <pubDate>Sat, 13 Jul 2024 21:58:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-13/</guid>
+      <description>I have been testing the app scripting since updating the entry. However, I am going as I have been testing, I have been wanting to change the build since the design is more minimalist and also does not clutter the page.
+Currently, the design looks like this.
+#screenshot
+However, I realized that react is very difficult to implement globally. So Alternatively I will remain using the spreadsheet as the base of my tool.</description>
+    </item>
+    <item>
+      <title>Linux Update</title>
+      <link>http://localhost:1313/posts/2024-07-08/</link>
+      <pubDate>Mon, 08 Jul 2024 13:27:12 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-08/</guid>
+      <description>Linux Update: After trying out all of the configurations for dot-files, I have released the pros and cons of real Linux. A Pro, with Linux, is the declaring alias is easy the only requirement is changing the .bashrc file but this is not global like in Nix-OS.
+This makes me want to go back to Nix-Os.
+As I am using Linux for my daily driver.The window manager concept is tough to get into as it does save battery and also minimizes the use of mouse interactions.</description>
+    </item>
+    <item>
+      <title>Learning Update</title>
+      <link>http://localhost:1313/posts/2024-07-06/</link>
+      <pubDate>Sat, 06 Jul 2024 14:18:18 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-06/</guid>
+      <description>Learning for Software Testing I have changed it up a bit and started my online course via LinkedIn Learning. I have continued learning in Testing for scripts to gain a better understanding of how scripting can help testers automate graphs and organize data. I have learned the purpose of selenium. In most use cases for the software selenium automates the basic input of a website.
+Since the standard changes daily, I have been learning Python simultaneously, as Python is mostly script-based before moving on to JavaScript.</description>
+    </item>
     <item>
       <title>Project Update</title>
       <link>http://localhost:1313/posts/2024-07-03/</link>

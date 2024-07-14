@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Bruce&#39;s Blog</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Bruce&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2024 13:27:12 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Update</title>
+      <link>http://localhost:1313/posts/2024-07-08/</link>
+      <pubDate>Mon, 08 Jul 2024 13:27:12 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-08/</guid>
+      <description>Linux Update: After trying out all of the configurations for dot-files, I have released the pros and cons of real Linux. A Pro, with Linux, is the declaring alias is easy the only requirement is changing the .bashrc file but this is not global like in Nix-OS.
+This makes me want to go back to Nix-Os.
+As I am using Linux for my daily driver.The window manager concept is tough to get into as it does save battery and also minimizes the use of mouse interactions.</description>
+    </item>
+    <item>
+      <title>Nix OS Review</title>
+      <link>http://localhost:1313/posts/2024-06-29/</link>
+      <pubDate>Sat, 29 Jun 2024 10:49:46 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-29/</guid>
+      <description>Link - https://nixos.org/
+I have been using NixOs for four months now, but I think it is time for a change. Currently, at this stage in my career, there is a lot to learn. However, the timeframe for each project has been shortened significantly. Therefore I will be changing to another Linux distribution very shortly.
+What I love about the NixOs: Reproducibility, being able to copy over a configuration from git, and rebuilding with one simple command have made my life incredibly easy with maintenance.</description>
+    </item>
+  </channel>
+</rss>

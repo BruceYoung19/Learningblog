@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CalendarProject on Bruce&#39;s Blog</title>
+    <link>http://localhost:1313/tags/calendarproject/</link>
+    <description>Recent content in CalendarProject on Bruce&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2024 21:58:28 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/calendarproject/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google App Script Update</title>
+      <link>http://localhost:1313/posts/2024-07-13/</link>
+      <pubDate>Sat, 13 Jul 2024 21:58:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-13/</guid>
+      <description>I have been testing the app scripting since updating the entry. However, I am going as I have been testing, I have been wanting to change the build since the design is more minimalist and also does not clutter the page.
+Currently, the design looks like this.
+#screenshot
+However, I realized that react is very difficult to implement globally. So Alternatively I will remain using the spreadsheet as the base of my tool.</description>
+    </item>
+    <item>
+      <title>Project Update</title>
+      <link>http://localhost:1313/posts/2024-07-03/</link>
+      <pubDate>Wed, 03 Jul 2024 20:22:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-03/</guid>
+      <description>Since Coming Back to Arch OS. I have been much more technical. Also, I feel freer because I can modify the system without restrictions. However, with these changes, there will never be without cons. At this stage, the only con I have found is package management. I can not keep track of what is installed on my computer.
+In terms of upskilling, I have started updating the following repository.
+Link - https://github.</description>
+    </item>
+    <item>
+      <title>Project Update Calendar Project</title>
+      <link>http://localhost:1313/posts/2024-06-30/</link>
+      <pubDate>Sun, 30 Jun 2024 10:57:53 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-30/</guid>
+      <description>Link - https://github.com/BruceYoung19/GoogleCalendarScript
+Upskilling Log What have I learned:
+Data structures Arrays Dates Google scripting Git commit Technical Documentation Should be keeping up with the time frame Git hub License What I could have worked on:
+Git fork API Version Control Version 1 - code.gs
+only able to make events Problem:
+This is not useable on a daily use. Version 2 - Codev2.gs
+Spreadsheet to make all the events Creating a tag for the event STRUCTURE = [TAG] Event , startdate, enddate, description, code This can work in a span of a timeframe creating with one line of code.</description>
+    </item>
+  </channel>
+</rss>

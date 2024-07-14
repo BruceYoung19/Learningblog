@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Learning on Bruce&#39;s Blog</title>
+    <link>http://localhost:1313/tags/learning/</link>
+    <description>Recent content in Learning on Bruce&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2024 14:18:18 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Update</title>
+      <link>http://localhost:1313/posts/2024-07-06/</link>
+      <pubDate>Sat, 06 Jul 2024 14:18:18 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-06/</guid>
+      <description>Learning for Software Testing I have changed it up a bit and started my online course via LinkedIn Learning. I have continued learning in Testing for scripts to gain a better understanding of how scripting can help testers automate graphs and organize data. I have learned the purpose of selenium. In most use cases for the software selenium automates the basic input of a website.
+Since the standard changes daily, I have been learning Python simultaneously, as Python is mostly script-based before moving on to JavaScript.</description>
+    </item>
+  </channel>
+</rss>
