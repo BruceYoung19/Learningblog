@@ -6,8 +6,25 @@
     <description>Recent content on Bruce&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2024 21:58:28 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 15:01:32 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appscript </title>
+      <link>http://localhost:1313/posts/2024-07-20/</link>
+      <pubDate>Sat, 20 Jul 2024 15:01:32 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-20/</guid>
+      <description>Version Review Today I have been reviewing version 2 of my script. The climbing issue of having to create and keep track of the events while preparing for the week is quite frustrating at the least. My Version 3 is to focus on efficiency and also portability.
+Currently, I have created a template sheet that generates calendar events based on the tags.
+Two issues I have currently related to these events are the following: At the end of the month of the year, How do I change this?</description>
+    </item>
+    <item>
+      <title>Hyprland Update - Linux</title>
+      <link>http://localhost:1313/posts/2024-07-18/</link>
+      <pubDate>Thu, 18 Jul 2024 19:18:37 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-18/</guid>
+      <description>Hyprland Testing I finally understand how to create screenshots in Hyprland as no other application would as the compiler is not x11 based. The best way is to use Grim as it takes a picture of the whole screen.
+Hyprland configurations are quite easy to learn in the .config/hypr/hyprland.conf. The only confusing thing about how Hyprland wants this to be set up is the idea of using bind = ,Print,exec,grim is hard for me to get around.</description>
+    </item>
     <item>
       <title>Google App Script Update</title>
       <link>http://localhost:1313/posts/2024-07-13/</link>
