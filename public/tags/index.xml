@@ -4,29 +4,29 @@
     <title>Tags on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.130.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jul 2024 15:01:32 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 16:58:17 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CalendarProject</title>
-      <link>http://localhost:1313/tags/calendarproject/</link>
-      <pubDate>Sat, 20 Jul 2024 15:01:32 +1200</pubDate>
-      <guid>http://localhost:1313/tags/calendarproject/</guid>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Tue, 13 Aug 2024 16:58:17 +1200</pubDate>
+      <guid>http://localhost:1313/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Thu, 18 Jul 2024 19:18:37 +1200</pubDate>
+      <pubDate>Thu, 01 Aug 2024 19:50:25 +1200</pubDate>
       <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
     </item>
     <item>
-      <title>Learning</title>
-      <link>http://localhost:1313/tags/learning/</link>
-      <pubDate>Sat, 06 Jul 2024 14:18:18 +1200</pubDate>
-      <guid>http://localhost:1313/tags/learning/</guid>
+      <title>CalendarProject</title>
+      <link>http://localhost:1313/tags/calendarproject/</link>
+      <pubDate>Mon, 29 Jul 2024 07:15:46 +1200</pubDate>
+      <guid>http://localhost:1313/tags/calendarproject/</guid>
       <description></description>
     </item>
   </channel>

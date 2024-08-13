@@ -4,10 +4,27 @@
     <title>Linux on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.130.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 19:18:37 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 19:50:25 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyprland Update</title>
+      <link>http://localhost:1313/posts/2024-08-01/</link>
+      <pubDate>Thu, 01 Aug 2024 19:50:25 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-01/</guid>
+      <description>What has been done? The more I have been using Linux the more I understand the issues related to the Pacman and Yay package managers. Always getting the newest packages presents more bugs than I had thought.
+I have been reading up on nix os again and will probably be going back to it. Walking away from the language has given me a better perspective on the mistakes I made last time.</description>
+    </item>
+    <item>
+      <title>Linux Update</title>
+      <link>http://localhost:1313/posts/2024-07-24/</link>
+      <pubDate>Wed, 24 Jul 2024 17:10:17 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-24/</guid>
+      <description>Linux update: Since trying Arch Linux for the last month. I have found it much easier to install packages. This has made me feel less productive as there is a requirement to search and find the requirements for each package.
+This is why Nix packages are so useful as there is no requirement to have more than one package management.
+Also, I have been trying to find another way to keep track of all of the different projects.</description>
+    </item>
     <item>
       <title>Hyprland Update - Linux</title>
       <link>http://localhost:1313/posts/2024-07-18/</link>

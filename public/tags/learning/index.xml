@@ -4,10 +4,45 @@
     <title>Learning on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/tags/learning/</link>
     <description>Recent content in Learning on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.130.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 14:18:18 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 16:58:17 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Powershell Learning</title>
+      <link>http://localhost:1313/posts/2024-08-13/</link>
+      <pubDate>Tue, 13 Aug 2024 16:58:17 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-13/</guid>
+      <description>Today I have been learning how to exact information from the active directory as it is very hard to understand the structure in Powershell is to be used.
+for example:
+get-aduser However when dealing with loops. It is very hard to adjust to foreach instead of using a for loop.
+$emails= \\ list of emails foreach ($user in $emails){ Get-ADUser -Filter{UserPrincipalName -eq $user} -Properties * | Select // what the user is looking for } The commands I have also learned</description>
+    </item>
+    <item>
+      <title>Linux Learning</title>
+      <link>http://localhost:1313/posts/2024-08-07/</link>
+      <pubDate>Wed, 07 Aug 2024 21:07:59 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-07/</guid>
+      <description>Linux learning After working in the command line for almost 2 years constantly. I have found it much easier to work on infrastructure-based files. However, when building some programs it can be very hard to adjust as I do not have the option to debug like in an open IDE. I am grateful that I have learned this, for the following reasons:
+Working with low-powered machines to deploy software or as a workaround for one day.</description>
+    </item>
+    <item>
+      <title>Rust Trying</title>
+      <link>http://localhost:1313/posts/2024-08-05/</link>
+      <pubDate>Mon, 05 Aug 2024 07:29:15 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-05/</guid>
+      <description>Today I have started to learn how to program in Rust. This is very close to how C-base languages work. My first program is Hello World as usual.
+However, the ironic thing I have learned a lot about how rust works. Rustc compiles the program Variables - mut, if required change
+The second program I have tried is to allow input. I wanted to check if cargo is required for a very basic program.</description>
+    </item>
+    <item>
+      <title>Work Learning</title>
+      <link>http://localhost:1313/posts/2024-07-27/</link>
+      <pubDate>Sat, 27 Jul 2024 10:26:04 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-27/</guid>
+      <description>PowerShell learning. I have decided to stop learning PowerShell, as in my role in Service Desk. Currently, I have seen the end of life with PowerShell learning, there are no new things I can learn here with the limited amount of time and with the type of work I do.
+I will never really see much point in the matter of learning, in terms of career progression, every day I have been using 1 liner and nothing more.</description>
+    </item>
     <item>
       <title>Learning Update</title>
       <link>http://localhost:1313/posts/2024-07-06/</link>
