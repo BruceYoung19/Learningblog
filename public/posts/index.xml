@@ -4,10 +4,19 @@
     <title>Posts on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.130.0</generator>
+    <generator>Hugo -- 0.133.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 16:58:17 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 21:29:20 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cargo Trial</title>
+      <link>http://localhost:1313/posts/2024-08-23/</link>
+      <pubDate>Fri, 23 Aug 2024 21:29:20 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-23/</guid>
+      <description>Rust - Cargo I have started learning the basic logic of rust in the main.rs, understanding how to use int values and declaring Array. However, this was not realistic for a real project. Since this is the case. I have started to use cargo.
+Commit - 1b5cd3f (This will have been updated on the day, which is on the 25/08)
+Right now, I have tried to start using the clap framework.</description>
+    </item>
     <item>
       <title>Powershell Learning</title>
       <link>http://localhost:1313/posts/2024-08-13/</link>
