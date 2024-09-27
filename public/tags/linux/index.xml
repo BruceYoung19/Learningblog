@@ -4,10 +4,20 @@
     <title>Linux on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 19:50:25 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 07:46:30 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waybar Configuration</title>
+      <link>http://localhost:1313/posts/2024-09-20/</link>
+      <pubDate>Fri, 20 Sep 2024 07:46:30 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-20/</guid>
+      <description>Today I thought I would try something easiest and more creative. What I have done, is create updated my waybar in hyprland.
+Link for hyprland- https://github.com/hyprwm/Hyprland Link for waybar - https://github.com/Alexays/Waybar
+Figure 1, Example of waybar
+However, it was this did not meet my functional requirements. So what I have done is changed the idea. Since coming to hyprland I do not really take advantage of the workspace feature, I have left this on the left hand side.</description>
+    </item>
     <item>
       <title>Hyprland Update</title>
       <link>http://localhost:1313/posts/2024-08-01/</link>

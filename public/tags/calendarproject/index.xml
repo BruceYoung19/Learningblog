@@ -4,10 +4,19 @@
     <title>CalendarProject on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/tags/calendarproject/</link>
     <description>Recent content in CalendarProject on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2024 07:15:46 +1200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 07:14:28 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/calendarproject/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Update</title>
+      <link>http://localhost:1313/posts/2024-09-09/</link>
+      <pubDate>Mon, 09 Sep 2024 07:14:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-09/</guid>
+      <description>Today I have been testing my calendar script. I have not had any issues with excuting the script in google excel. I have removed the following github repos as they are related to my current build
+Which was the ticketing system.
+Code - 24QCES4YJ09</description>
+    </item>
     <item>
       <title>Appscript Update</title>
       <link>http://localhost:1313/posts/2024-07-29/</link>

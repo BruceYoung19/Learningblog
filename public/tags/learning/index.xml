@@ -4,7 +4,7 @@
     <title>Learning on Bruce&#39;s Blog</title>
     <link>http://localhost:1313/tags/learning/</link>
     <description>Recent content in Learning on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2024 21:29:20 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
@@ -32,7 +32,7 @@ $emails= \\ list of emails foreach ($user in $emails){ Get-ADUser -Filter{UserPr
       <link>http://localhost:1313/posts/2024-08-07/</link>
       <pubDate>Wed, 07 Aug 2024 21:07:59 +1200</pubDate>
       <guid>http://localhost:1313/posts/2024-08-07/</guid>
-      <description>Linux learning After working in the command line for almost 2 years constantly. I have found it much easier to work on infrastructure-based files. However, when building some programs it can be very hard to adjust as I do not have the option to debug like in an open IDE. I am grateful that I have learned this, for the following reasons:
+      <description>After working in the command line for almost 2 years constantly. I have found it much easier to work on infrastructure-based files. However, when building some programs it can be very hard to adjust as I do not have the option to debug like in an open IDE. I am grateful that I have learned this, for the following reasons:
 Working with low-powered machines to deploy software or as a workaround for one day.</description>
     </item>
     <item>

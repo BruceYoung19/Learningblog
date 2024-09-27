@@ -4,10 +4,28 @@
     <title>Bruce&#39;s Blog</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Bruce&#39;s Blog</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 21:29:20 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 07:46:30 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waybar Configuration</title>
+      <link>http://localhost:1313/posts/2024-09-20/</link>
+      <pubDate>Fri, 20 Sep 2024 07:46:30 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-20/</guid>
+      <description>Today I thought I would try something easiest and more creative. What I have done, is create updated my waybar in hyprland.
+Link for hyprland- https://github.com/hyprwm/Hyprland Link for waybar - https://github.com/Alexays/Waybar Figure 1, Example of waybar
+However, it was this did not meet my functional requirements. So what I have done is changed the idea. Since coming to hyprland I do not really take advantage of the workspace feature, I have left this on the left hand side.</description>
+    </item>
+    <item>
+      <title>Git Update</title>
+      <link>http://localhost:1313/posts/2024-09-09/</link>
+      <pubDate>Mon, 09 Sep 2024 07:14:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-09/</guid>
+      <description>Today I have been testing my calendar script. I have not had any issues with excuting the script in google excel. I have removed the following github repos as they are related to my current build
+Which was the ticketing system.
+Code - 24QCES4YJ09</description>
+    </item>
     <item>
       <title>Cargo Trial</title>
       <link>http://localhost:1313/posts/2024-08-23/</link>
@@ -32,7 +50,7 @@ $emails= \\ list of emails foreach ($user in $emails){ Get-ADUser -Filter{UserPr
       <link>http://localhost:1313/posts/2024-08-07/</link>
       <pubDate>Wed, 07 Aug 2024 21:07:59 +1200</pubDate>
       <guid>http://localhost:1313/posts/2024-08-07/</guid>
-      <description>Linux learning After working in the command line for almost 2 years constantly. I have found it much easier to work on infrastructure-based files. However, when building some programs it can be very hard to adjust as I do not have the option to debug like in an open IDE. I am grateful that I have learned this, for the following reasons:
+      <description>After working in the command line for almost 2 years constantly. I have found it much easier to work on infrastructure-based files. However, when building some programs it can be very hard to adjust as I do not have the option to debug like in an open IDE. I am grateful that I have learned this, for the following reasons:
 Working with low-powered machines to deploy software or as a workaround for one day.</description>
     </item>
     <item>
