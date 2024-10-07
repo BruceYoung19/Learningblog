@@ -6,8 +6,26 @@
     <description>Recent content on Bruce&#39;s Blog</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Sep 2024 07:46:30 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 19:04:30 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selenium Testing</title>
+      <link>http://localhost:1313/posts/2024-10-05/</link>
+      <pubDate>Sat, 05 Oct 2024 19:04:30 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2024-10-05/</guid>
+      <description>Today I Managed to make the drivers work with python. It seems that the examples not trust worthy.
+I have followed the link - https://selenium-python.readthedocs.io/
+My first script allows me to get the header of the page. The next step is to allow me to find the headers. The most helpful thing, I have found in nix os is that I can build a work environment and also keep my personal stuff where they are will all the change to one thing.</description>
+    </item>
+    <item>
+      <title>Raspberry pi </title>
+      <link>http://localhost:1313/posts/2024-09-30/</link>
+      <pubDate>Mon, 30 Sep 2024 19:17:56 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-30/</guid>
+      <description>Today , I have tried to set up a server on my raspberry pi. I have been wanting to try setting up a some servers for year now. However have been trying too afraid of experiment in the past. So today I tried to set a media server. Issues:
+Media on the USB - After using docker-compose , i was not see my media.
+Fix : After mounting the device. Docker is having a hard time, seeing media.</description>
+    </item>
     <item>
       <title>Waybar Configuration</title>
       <link>http://localhost:1313/posts/2024-09-20/</link>
@@ -16,6 +34,15 @@
       <description>Today I thought I would try something easiest and more creative. What I have done, is create updated my waybar in hyprland.
 Link for hyprland- https://github.com/hyprwm/Hyprland Link for waybar - https://github.com/Alexays/Waybar Figure 1, Example of waybar
 However, it was this did not meet my functional requirements. So what I have done is changed the idea. Since coming to hyprland I do not really take advantage of the workspace feature, I have left this on the left hand side.</description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/posts/2024-09-16/</link>
+      <pubDate>Mon, 16 Sep 2024 17:22:17 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-16/</guid>
+      <description>I have been trying to figure how to upskill. As I have just changed back to nixos. The most useful part about nixos is the package management.
+I have set up been testing how to set up enviroments in nix. The first environment I have set up today is using nodejs environment. I have taken advantage of the nix-shell command.
+Lastly I need to understand, what I should be achieving with this environment.</description>
     </item>
     <item>
       <title>Git Update</title>

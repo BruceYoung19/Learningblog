@@ -3,19 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-20T07:46:30+12:00</lastmod>
+    <lastmod>2024-10-07T06:56:44+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-07T06:56:44+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2024-10-05T19:04:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-10-05/</loc>
+    <lastmod>2024-10-05T19:04:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-05T19:04:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    <lastmod>2024-09-30T19:17:56+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-09-30/</loc>
+    <lastmod>2024-09-30T19:17:56+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2024-09-20T07:46:30+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-20T07:46:30+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-20T07:46:30+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2024-09-20/</loc>
     <lastmod>2024-09-20T07:46:30+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-09-16/</loc>
+    <lastmod>2024-09-16T17:22:17+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calendarproject/</loc>
     <lastmod>2024-09-09T07:14:28+12:00</lastmod>
@@ -24,9 +39,6 @@
     <lastmod>2024-09-09T07:14:28+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024-08-23/</loc>
-    <lastmod>2024-08-23T21:29:20+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
     <lastmod>2024-08-23T21:29:20+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024-08-13/</loc>

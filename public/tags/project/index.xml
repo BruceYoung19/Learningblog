@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on Bruce&#39;s Blog</title>
+    <link>http://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on Bruce&#39;s Blog</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2024 19:17:56 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry pi </title>
+      <link>http://localhost:1313/posts/2024-09-30/</link>
+      <pubDate>Mon, 30 Sep 2024 19:17:56 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-30/</guid>
+      <description>Today , I have tried to set up a server on my raspberry pi. I have been wanting to try setting up a some servers for year now. However have been trying too afraid of experiment in the past. So today I tried to set a media server. Issues:
+Media on the USB - After using docker-compose , i was not see my media.
+Fix : After mounting the device. Docker is having a hard time, seeing media.</description>
+    </item>
+  </channel>
+</rss>
